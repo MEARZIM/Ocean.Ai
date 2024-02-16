@@ -63,7 +63,7 @@ const MusicPage = () => {
         <div>
             <Heading
                 title='Music'
-                description='Our most Advanced Conversation Model'
+                description='Our most Advanced Audio Generation Model'
                 icon={Music}
                 iconColor='text-emerald-500'
                 bgColor='bg-emerald-500/10'
