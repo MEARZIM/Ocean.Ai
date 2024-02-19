@@ -13,6 +13,7 @@ const DashBoardLayout = ({ children }: { children: React.ReactNode }) => {
                 <Navbar/>
                 {children}
             </main>
+           
         </div>
     )
 }
