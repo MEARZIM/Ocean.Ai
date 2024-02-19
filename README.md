@@ -1,36 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Ocean.AI
 
-First, run the development server:
+Ocean.AI is an AI-based platform built with Next.js, leveraging the power of REPLICATE and OpenAI in the backend. It offers a suite of innovative features designed to enhance users' day-to-day workflows
+
+
+## Key Features:
+
+
+- **Conversation:** Seamlessly generate conversational content to enhance communication and interaction.
+- **Music Generation:** Explore endless possibilities in music creation with AI-driven composition tools.
+- **Image Generation:** Create stunning visuals with AI-powered image generation capabilities.
+- **Video Generation:** Effortlessly generate captivating videos to elevate your content creation process..
+- **Code Generation** Streamline coding tasks with AI-generated code snippets and solutions.
+
+## Technology Stack:
+
+- **Frontend:** Next.js, TypeScript, TailwindCSS
+- **Backend:** Node.js, Replicate, OpenAi
+- **Authentication:** Clerk 
+
+
+
+## Getting Started:
+
+- **1. Install dependencies:** `npm install` in both the `frontend` and `backend` directories.
+    
+## Run Locally
+
+### Clone the project
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/MEARZIM/Ocean.Ai
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Go to the project directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  cd Ocean.Ai
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Setup Environment Variables
 
-## Learn More
+```bash
+  NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= Your CLERK PUBLISHABLE KEY
+  CLERK_SECRET_KEY= Your CLERK SECRET KEY
+  NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+  NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+  NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/dashboard
+  NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
 
-To learn more about Next.js, take a look at the following resources:
+  OPEN_AI_SECRET_KEY = Your OPENAI SECRET KEY
+  REPLICATE_SECRET_KEY = Your REPLICATE SECRET TOKEN
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Start the server
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```bash
+  npm run dev
+  or,
+  yarn run dev
+```
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Feedback
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you have any feedback, please reach out to us at asahaayan@gmail.com
+
+
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
