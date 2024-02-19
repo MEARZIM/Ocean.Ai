@@ -68,8 +68,20 @@ If you have any feedback, please reach out to us at asahaayan@gmail.com
 
 
 ## Screenshots
+![Screenshot 2024-02-19 122712](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/3640f41f-5caf-44fe-b54a-afe5c91dc054)
+![Screenshot 2024-02-19 122724](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/c2026e5d-8f10-481f-9e7a-47f0eb08f6de)
+![Screenshot 2024-02-19 122736](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/c3a0d54d-b8bf-4c50-9f84-f28425ae2184)
+![Screenshot 2024-02-19 122800](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/a7b48518-922f-4728-910d-3093bba64bd5)
+![Screenshot 2024-02-19 122827](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/380ae20b-bb0c-49d4-8650-0e385ef38f6b)
+![Screenshot 2024-02-19 122926](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/2cb85dfd-f423-4d56-9a1e-b3ff1c28bb2a)
+![Screenshot 2024-02-19 124335](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/49c9a46e-da05-47e0-bb1f-8368e4ffbc36)
+![Screenshot 2024-02-19 124412](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/6d9a2ca3-e038-4f48-884e-e80bd2f22b10)
+![Screenshot 2024-02-19 125756](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/36637ba6-e087-428b-85f5-cbfc1b4c5955)
+![Screenshot 2024-02-19 130004](https://github.com/MEARZIM/Ocean.Ai/assets/89741434/7cf1564a-1afc-43ec-b685-9e85acb1c659)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+
 
 
 ## 🔗 Links
